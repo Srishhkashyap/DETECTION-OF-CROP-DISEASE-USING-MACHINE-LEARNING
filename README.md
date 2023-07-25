@@ -10,7 +10,7 @@ extraction module. Second, Deep Learning techniques reduce the amount of time re
 process large datasets of high dimensions. Therefore, the Deep Learning techniques are used
 to build the proposed hybrid model
 
-Dataset used here is the New Plant Diseases Dataset Dataset [16]. It is an open-source
+Dataset used here is the New Plant Diseases Dataset Dataset . It is an open-source
 dataset which consists of about 20,600 images of plant leaf. Three different species of plant
 leaves are used for this research process such as Tomato, Potato and Pepper. This disease
 detection is done by using both healthy and infected leaves. Nearly 12 diseases for 3 species
